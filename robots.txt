@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dwaidatta.in/sitemap.xml
