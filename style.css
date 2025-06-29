@@ -160,7 +160,7 @@ body, html {
   width: 100%;
 }
 .btn:hover {
-  background: var(--accent);
+  background: var(--accent) !important;
   color: #0a192f;
 }
 .icon-btn {
