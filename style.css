@@ -262,11 +262,16 @@ body, html {
     width: 90px;
     height: 90px;
   }
+
+  .section-title, .stack-kgec-title {
+    font-size: 1rem;
+  }
+
   .name {
     font-size: 1.4rem;
   }
   .location, .tagline, .contact-item, .about-me, .education-list li, .stack-kgec-note {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
   }
   .btn {
     font-size: 0.8rem;
